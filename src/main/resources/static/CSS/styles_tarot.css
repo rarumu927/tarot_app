@@ -1,0 +1,39 @@
+
+body {
+    font-family: sans-serif;
+    padding: 2rem;
+    background-color: #D8B4DC
+}
+
+img {
+    max-width: 200px;
+    display: block;
+    margin: 1rem 0;
+}
+
+h1 {
+    text-align:center;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+#result {
+    text-align: center;
+}
+
+#result img {
+    display: inline-block;
+    margin-top: 10px;
+    max-width: 100%;
+    height: auto;
+}
+
+.rotated {
+    transform: rotate(180deg);
+}

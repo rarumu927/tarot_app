@@ -1,0 +1,9 @@
+com\example\TarotResultDto.class
+com\example\TarotController.class
+com\example\TarotService.class
+com\example\TarotDeck.class
+com\example\TarotCardTypeToken.class
+com\example\TarotReading.class
+com\example\TarotCard.class
+com\example\TarotApplication.class
+com\example\TarotCardTypeToken$1.class
