@@ -5,7 +5,7 @@ document.getElementById("drawButton").addEventListener("click", function () {
   // ローディング表示（占い中）
   container.innerHTML = "<p>占い結果を取得中...</p>";
   
-  fetch("http://localhost:8080/tarot")
+  fetch("/tarot")
     .then(response => response.json())
     .then(data => {
       const container = document.getElementById("result");
