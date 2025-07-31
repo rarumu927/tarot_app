@@ -24,7 +24,7 @@ public class TarotResultDto {
     public String getMeaningReversed() { return meaningReversed; }
     public String getPosition() { return position; }
     public String getImageUrl() { return imageUrl; }
-    public String getdescription() { return description; }
+    public String getDescription() { return description; }
 
-    
+   
 }
