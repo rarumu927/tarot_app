@@ -12,7 +12,7 @@ public class TarotService {
     private final Random random;
 
     public TarotService() {
-        this.deck = new TarotDeck("C:\\Users\\rarum\\Desktop\\programing\\Java\\tarot\\resources\\major_arcana.json");
+        this.deck = new TarotDeck();
         this.reading = new TarotReading(deck);
         this.random = new Random();
     }

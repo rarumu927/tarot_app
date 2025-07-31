@@ -1,0 +1,246 @@
+[
+    {
+        "name" : "愚者",
+        "nameEnglish":"TheFool",
+        "number" : 0,
+        "meaningUpright" : "自由・可能性・冒険",
+        "meaningReversed" : "無計画・混乱・不安定",
+        "upDescription" : "新しい始まりや冒険を示唆します。直感を信じて前に進むことが良い方に向きます。だからと言って、軽率な判断は禁物です。",
+        "reDescription" : "無計画や軽率さへの警告を示します。新しいことへはことさらに慎重になり、衝動的な行動は控えましょう。そうすることで、安定的な運気が見込めます。"
+
+    },
+
+    {
+        "name" : "魔術師",
+        "nameEnglish":"TheMagician",
+        "number" : 1,
+        "meaningUpright" : "想像力・才能の発揮・行動力",
+        "meaningReversed" : "不正・詐欺・方向性の欠如",
+        "upDescription" : "才能が発揮でき、新しいアイデアの実現を示唆します。自信をもって行動することで、望む結果を得られる可能性が高まります。",
+        "reDescription" : "才能や機会を活かしきれていない状態を示します。自己欺瞞や不誠実な行動に注意が必要です。"
+
+    },
+
+    {
+        "name" : "女教皇",
+        "nameEnglish":"TheHighPriestess",
+        "number" : 2,
+        "meaningUpright" : "直感・知恵・潜在意識",
+        "meaningReversed" : "無知・自己欺瞞・感情的閉鎖",
+        "upDescription" : "高い知性と洞察力を示します。自身の内なる声に耳を傾け、直感を信じることで良い結果を得られるでしょう。",
+        "reDescription" : "直感力の低下や判断力の乱れを示します。感情に振り回されやすく、慎重さを欠く傾向があります。時間をかけて、一度冷静に状況を見直すことが大切です。"
+
+    },
+
+    {
+        
+        "name" : "女帝",
+        "nameEnglish":"TheEmpress",
+        "number" : 3,
+        "meaningUpright" : "豊かさ・母性・創造性",
+        "meaningReversed" : "不安定・感情的な不満・浪費",
+        "upDescription" : "豊かさと成功を表します。創造力が高まり、周囲からの支持も得やすい時期です。ただし、浪費には注意が必要です。",
+        "reDescription" : "創造力の停滞や自信の欠如を示唆します。周囲との関係にも注意が必要です。一度冷静になり、見直すことで、状況が改善されるでしょう。"
+
+    },
+
+    {
+        
+        "name" : "皇帝",
+        "nameEnglish":"TheEmperor",
+        "number" : 4,
+        "meaningUpright" : "権力・安定・責任",
+        "meaningReversed" : "専制・支配的な態度・無責任",
+        "upDescription" : "リーダーシップと安定を表します。物事を論理的に考え、確実に進めていける力があります。だからと言って、慎重さを欠くことはせず、計画性を持って行動することが成功への鍵となります。",
+        "reDescription" : "権力の乱用や柔軟性の欠如を示唆します。過度な支配欲や頑固さには注意が必要です。自己を見つめ直し、自分の役割を果たすことで状況は改善していくでしょう。"
+
+    },
+
+    {
+        "name" : "法王",
+        "nameEnglish":"TheHierophant",
+        "number" : 5,
+        "meaningUpright" : "伝統・道徳・指導",
+        "meaningReversed" : "固執・独善的・伝統からの逸脱",
+        "upDescription" : "精神的な成長や道徳的な指針を示します。伝統的な価値観や信念に基づいた行動が重要になります。人生の指針を決める良い機会かもしれません。",
+        "reDescription" : "固定観念や偏見に囚われている状態を示唆します。柔軟性の欠如や精神的な停滞に注意が必要です。新しいことにも取り組むことで思わぬチャンスが訪れるかもしれません。"
+    
+    },
+
+    {
+        "name" : "恋人",
+        "nameEnglish":"TheLovers",
+        "number" : 6,
+        "meaningUpright" : "愛・調和・選択",
+        "meaningReversed" : "不調和・葛藤・・裏切り",
+        "upDescription" : "調和と幸福な関係を示唆します。直感を信じて行動することで、良い結果が得られるでしょう。",
+        "reDescription" : "関係の不安定さや判断の誤りを警告しています。慎重な対応が求められ、基本に立ち返り、時間をかけてでもしっかり検討する方が良いでしょう。"
+    
+    },
+
+    {
+        "name" : "戦車",
+        "nameEnglish":"TheChariot",
+        "number" : 7,
+        "meaningUpright" : "勝利・意志の力・前進",
+        "meaningReversed" : "過信・失敗・焦り",
+        "upDescription" : "目標に向かって突き進む力強さを表します。自信をもって行動することで、成功への道が開けるでしょう。",
+        "reDescription" : "進行の遅れや自信の欠如を示唆します。焦りや過度な競争心に注意が必要です。長期的な視点で、一つ一つの課題に丁寧に取り組むことで状況は改善していくでしょう。"
+    
+    },
+
+    {
+        "name" : "力",
+        "nameEnglish":"Strength",
+        "number" : 8,
+        "meaningUpright" : "勇気・忍耐・優しさ",
+        "meaningReversed" : "不安・弱さ・衝動的",
+        "upDescription" : "強い意志と自制心を表します。困難に立ち向かう勇気と粘り強さが、あなたを成功へと導くでしょう。",
+        "reDescription" : "自信の欠如や感情のコントロールの難しさを示唆します。慎重な対応が求められます。"
+
+    },
+
+    {
+        "name" : "隠者",
+        "nameEnglish":"TheHermit",
+        "number" : 9,
+        "meaningmeaningUpright" : "内省・自己探求・知恵",
+        "meaningReversed" : "孤立・怠慢・避ける態度",
+        "upDescription" : "内観と自己探求の時期を示唆します。静かに自分と向き合うことで、深い洞察が得られるでしょう。",
+        "reDescription" : "孤立や過度の内向性を警告しています。バランスを取り戻すことが重要です。閉鎖的な態度を改め、新しい情報や視点を積極的に取り入れましょう。"
+
+    },
+
+    {
+        "name" : "運命の輪",
+        "nameEnglish":"WheelOfFortune",
+        "number" : 10,
+        "meaningUpright" : "変化・運命・幸運",
+        "meaningReversed" : "不運・予測不能・停滞",
+        "upDescription" : "幸運な転機や好機の到来を示唆します。変化を恐れずに、積極的に行動することで、大きなチャンスを掴むことができるでしょう。",
+        "reDescription" : "不運や停滞を示唆します。しかし、これは一時的なものであり、自らの努力で状況を改善できる可能性があります。"
+
+    },
+
+    {
+        "name" : "正義",
+        "nameEnglish":"Justice",
+        "number" : 11,
+        "meaningUpright" : "公正・バランス・真実",
+        "meaningReversed" : "不正・偏り・誤った判断",
+        "upDescription" : "バランスの取れた状態と公正な判断を示唆します。物事を客観的に見る力が高まっている時期です。",
+        "reDescription" : "バランスの崩れや判断力の低下を示唆します。感情に振り回されやすい時期なので注意が必要です。他者の意見にも耳を傾け、状況を見つめ直すことが大切です。"
+    
+    },
+
+    {
+        "name" : "吊るされた男",
+        "nameEnglish":"TheHangedMan",
+        "number" : 12,
+        "meaningUpright" : "犠牲・内省・停滞",
+        "meaningReversed" : "抵抗・無駄な努力・自己中心的",
+        "upDescription" : "忍耐と自己犠牲の時期を示唆します。一見不利な状況に見えても、その中で新たな気づきや成長の機会があります。長期的な視点で考えることが大切です。",
+        "reDescription" : "努力が報われない状態や自己中心的な態度を警告しています。周囲の意見に耳を傾け、状況を冷静に見つめ直すことが重要です。"
+
+    },
+
+    {
+        "name" : "死神",
+        "nameEnglish":"Death",
+        "number" : 13,
+        "meaningUpright" : "終焉・変容・新しい始まり",
+        "meaningReversed" : "変化への抵抗・停滞・拒否",
+        "upDescription" : "大きな変化や転機を示唆します。今までの状況に区切りをつけ、新たなステージへ進む時期です。この変化は新たな道へ繋がっていきます。",
+        "reDescription" : "変化への抵抗や停滞を示唆します。新しい局面に進むべき時に、過去に執着している状態かもしれません。自分と向き合い、新しい可能性に目を向けることが大切です。"
+    
+    },
+
+    {
+        "name" : "節制",
+        "nameEnglish":"Temperance",
+        "number" : 14,
+        "meaningUpright" : "調和・バランス・統合",
+        "meaningReversed" : "不均衡・極端な行動・焦り",
+        "upDescription" : "調和と安定を示唆します。物事が滞りなく進み、心身ともにバランスのとれた状態にあることを表しています。",
+        "reDescription" : "バランスの崩れや不安定な状態を示唆します。自制心を失いやすく、慎重な対応が求められます。基本に立ち返り、自分の気持ちと向き合うことが大切です。"
+    
+    },
+
+    {
+        "name" : "悪魔",
+        "nameEnglish":"TheDevil",
+        "number" : 15,
+        "meaningUpright" : "欲望・束縛・誘惑",
+        "meaningReversed" : "解放・手放し・脱却",
+        "upDescription" : "欲望や誘惑に負けやすい状態を示唆します。自制心を失いがちな時期ですが、それを自覚することで成長のチャンスにもなります。",
+        "reDescription" : "執着や依存から解放される可能性を示唆します。自己を見つめ直し、新たな出発をする良い機会です。"
+
+    },
+
+    {
+        "name" : "塔",
+        "nameEnglish":"TheTower",
+        "number" : 16,
+        "meaningUpright" : "崩壊・予期せぬ変化・解放",
+        "meaningReversed" : "抵抗・破壊・変化の拒否",
+        "upDescription" : "予期せぬ出来事や球液な変化を示唆します。一見ネガティブに思えるかもしれませんが、この変化は新たな成長のチャンスでもあります。",
+        "reDescription" : "避けられない変化を先送りにしている状態を示唆します。変化を恐れるあまり、成長の機会を逃している可能性があります。新しいアイデアや方法を積極的に取り入れることで、突破口が見つかるかもしれません。"
+
+    },
+
+    {
+        "name" : "星",
+        "nameEnglish":"TheStar",
+        "number" : 17,
+        "meaningUpright" : "希望・癒し・導き",
+        "meaningReversed" : "失望・自己疑念・期待外れ",
+        "upDescription" : "明るい未来と希望に満ちた可能性を示唆します。あなたの才能や直感が輝き始める時期です。",
+        "reDescription" : "希望の喪失や自信の欠如を示唆します。しかし、これは一時的な状況であり、内省の機会として捉えることが大切です。"
+
+    },
+
+    {
+        "name" : "月",
+        "nameEnglish":"TheMoon",
+        "number" : 18,
+        "meaningUpright" : "不安・幻影・潜在意識",
+        "meaningReversed" : "幻滅・混乱の解消・真実",
+        "upDescription" : "不安や混乱を示唆していますが、同時に直感力の高まりも意味します。慎重に判断しましょう。",
+        "reDescription" : "不安や混乱が解消され、明るい兆しが見えてくることを示唆します。前向きな姿勢で取り組むと、良い結果を得られるでしょう。"
+
+    },
+
+    {
+        "name" : "太陽",
+        "nameEnglish":"TheSun",
+        "number" : 19,
+        "meaningUpright" : "喜び・成功・幸福",
+        "meaningReversed" : "不安定・失敗・エゴ",
+        "upDescription" : "明るい未来と成功を示唆します。エネルギーに満ち溢れ、物事が順調に進む時期です。",
+        "reDescription" : "エネルギーの低下や停滞を示唆します。しかし、これは一時的な状況であり、自らの努力で状況を改善できる可能性があります。"
+    
+    },
+
+    {
+        "name" : "審判",
+        "nameEnglish":"Judgement",
+        "number" : 20,
+        "meaningUpright" : "覚醒・再生・決断",
+        "meaningReversed" : "自己評価の欠如・否定・固執",
+        "upDescription" : "新たな展開や目覚めを示唆します。過去の経験を活かし、未来への一歩を踏み出す準備ができている状態です。",
+        "reDescription" : "変化への抵抗や過去に囚われている状態を示唆します。新しい可能性に目を向けることが大切です。"
+
+    },
+
+    {
+        "name" : "世界",
+        "nameEnglish":"TheWorld",
+        "number" : 21,
+        "meaningUpright" : "達成・調和・新たなサイクル",
+        "meaningReversed" : "未完成・停滞・未解決の問題",
+        "upDescription" : "全てが整い、理想的な状態に達していることを示唆します。努力が実を結び、大きな達成感を得られる時期です。",
+        "reDescription" : "目標達成の直前で停滞や挫折を経験する可能性を示唆します。しかし、これは一時的な状況であり、努力次第で状況を改善できる可能性があります。"
+    
+    }
+
+]
